@@ -5,6 +5,10 @@
     font-family: 'Verdana', "DejaVu Sans", 'sans-serif';
   }
 
+.three {
+    font-size: 24px;
+}
+
 #two {
     color: rgb(32, 86, 236);
     font-size: 36px;
